@@ -1,6 +1,6 @@
 # Book Store
 
-A Java application `for fawry challenge` simulating an online book store. The system supports different types of books including paper books, eBooks , and demo books , with support for inventory management, book purchasing, and custom exception handling.
+A Java application for `Fawry challenge` simulating an online book store. The system supports different types of books including paper books, eBooks , and demo books , with support for inventory management, book purchasing, and custom exception handling.
 
 ---
 
