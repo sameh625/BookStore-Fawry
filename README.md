@@ -39,3 +39,4 @@ Tests/
 ## Sample Test
 
 Run `BooksTesting` to simulate adding, removing, and buying books with different scenarios.
+![image](https://github.com/user-attachments/assets/118bb69a-d517-40fb-8c70-9097794a01a5)
