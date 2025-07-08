@@ -1,10 +1,10 @@
-# 📚 Quantum Book Store
+# Book Store
 
 A modular, extensible Java application simulating an online book store. The system supports different types of books including paper books (shippable), eBooks (emailable), and demo books (not for sale), with full support for inventory management, book purchasing, and custom exception handling.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add books to inventory (PaperBook, EBook, DemoBook)
 - Remove outdated books by publication year
@@ -17,7 +17,7 @@ A modular, extensible Java application simulating an online book store. The syst
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 Books/
 ├── Book.java
@@ -36,6 +36,6 @@ Tests/
 ├── BooksTesting.java
 ```
 
-## 🧪 Sample Test
+## Sample Test
 
 Run `BooksTesting` to simulate adding, removing, and buying books with different scenarios.
