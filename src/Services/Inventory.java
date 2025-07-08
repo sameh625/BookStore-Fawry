@@ -1,6 +1,6 @@
-package Service;
+package Services;
 
-import Book.Book;
+import Books.Book;
 import Exceptions.BookNotFoundExcepiton;
 
 import java.util.*;

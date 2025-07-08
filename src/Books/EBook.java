@@ -1,6 +1,6 @@
-package Book;
+package Books;
 
-import Service.MailService;
+import Services.MailService;
 
 public class EBook extends Book {
     private String fileType;

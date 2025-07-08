@@ -1,8 +1,8 @@
 package Tests;
 
-import Book.*;
+import Books.*;
 import Exceptions.*;
-import Service.Inventory;
+import Services.Inventory;
 
 public class BooksTesting {
     public static void main(String[] args) throws Exception {

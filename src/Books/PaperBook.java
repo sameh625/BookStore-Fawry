@@ -1,7 +1,7 @@
-package Book;
+package Books;
 
 import Exceptions.OutOfStockException;
-import Service.ShippingService;
+import Services.ShippingService;
 
 public class PaperBook extends Book {
     private int stock;

@@ -1,4 +1,4 @@
-package Service;
+package Services;
 
 public class MailService {
     public static void send(String email){

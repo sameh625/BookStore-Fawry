@@ -1,4 +1,4 @@
-package Book;
+package Books;
 
 public abstract class Book {
     protected String isbn;
